@@ -1,0 +1,100 @@
+body
+{
+    margin: 0%;
+    background-color: rgb(2, 0, 0);
+}
+#image
+{
+    padding-right: 200px;
+    padding-left: 150px;
+}
+h1
+{
+    color: blanchedalmond;
+    
+}
+#video
+{
+    overflow: hidden;
+    margin-bottom: -5px;
+}
+.spanbar
+{
+    text-align: right;
+    border: 4px solid rgb(110, 110, 110);
+    background-color: rgb(117, 116, 112);
+    margin-bottom: 50px;
+    padding: 10px;
+}
+#pan1
+{
+    color: rgb(253, 249, 243);
+    font-size: 30px;
+    padding-right: 20px;
+}
+#pan2
+{
+    color: rgb(253, 249, 243);
+    font-size: 30px;
+    padding-right: 20px;
+
+}
+#pan3
+{
+    color: rgb(253, 249, 243);
+    font-size: 30px;
+}
+.heading
+{
+    font-size: 80px;
+    font-style: italic;
+    color: rgb(124, 124, 124);
+    padding-left: 50px;
+}
+.paraG
+{
+    color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.paraG1
+{
+    color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.paraG2
+{
+    color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.paraG3
+{
+    color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.paraG4
+{
+    color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.heading2
+{
+    font-size: 80px;
+    font-style: italic;
+    color: rgb(124, 124, 124);
+    padding-left: 50px;
+}
+#dec
+{
+    text-decoration: none;
+    
+}
